@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "239370444440",
+    "project_id": "electric-car-app-305002",
+    "storage_bucket": "electric-car-app-305002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239370444440:android:1b60130d46046d5da8baed",
+        "android_client_info": {
+          "package_name": "com.electriccar.mad_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239370444440-b71nvfp5j39r9cn1fgp77u123kndkrgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4eBEyhyaO8aUFfmelHEM7ZkhZEklGQ0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239370444440-b71nvfp5j39r9cn1fgp77u123kndkrgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
